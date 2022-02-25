@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fe3fcd4-5e57-4528-83c1-07d34ff4693c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="25AuwUjYBbfC7D8YypMrUPhbvV8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images/about-us" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Бабыр\Desktop\building\src\images\who-choose-us" />
+      <recent name="C:\Users\Бабыр\Desktop\building\src\images\what-people-say" />
+      <recent name="C:\Users\Бабыр\Desktop\building\src\images\hero" />
+      <recent name="C:\Users\Бабыр\Desktop\building\src\images\footer" />
+      <recent name="C:\Users\Бабыр\Desktop\building\src\images\most-popular-places" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Бабыр\Desktop\building\src\images\about-us" />
+      <recent name="C:\Users\Бабыр\Desktop\building\src\images\header" />
+      <recent name="C:\Users\Бабыр\Desktop\building\src\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fe3fcd4-5e57-4528-83c1-07d34ff4693c" name="Default Changelist" comment="" />
+      <created>1644982450194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644982450194</updated>
+      <workItem from="1644982451393" duration="1062000" />
+      <workItem from="1644983590802" duration="2620000" />
+      <workItem from="1645151699382" duration="4000" />
+      <workItem from="1645153727140" duration="1142000" />
+      <workItem from="1645193124841" duration="8773000" />
+      <workItem from="1645253612534" duration="16810000" />
+      <workItem from="1645273158965" duration="14737000" />
+      <workItem from="1645408892536" duration="1762000" />
+      <workItem from="1645412064433" duration="2304000" />
+      <workItem from="1645533989347" duration="4320000" />
+      <workItem from="1645581705934" duration="4250000" />
+      <workItem from="1645586001483" duration="1079000" />
+      <workItem from="1645587211137" duration="792000" />
+      <workItem from="1645754449351" duration="4883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1645534462752">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1645534462752" />
+    <state x="528" y="279" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1645337689653">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="528" y="279" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.816@0.0.1536.816" timestamp="1645337689653" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1645263851604">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1645263851604" />
+    <state x="425" y="185" key="run.anything.popup" timestamp="1645534510280">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1645534510280" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1645287950122">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1645287950122" />
+  </component>
+</project>
